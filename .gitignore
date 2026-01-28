@@ -5,3 +5,7 @@ log/
 *.pyc
 __pycache__/
 .ROS_LOGGING
+.DS_Store
+*.egg-info/
+rosbag/
+*.db3
