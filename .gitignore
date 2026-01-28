@@ -1,11 +1,13 @@
 build/
 install/
 log/
-.vscode/
-*.pyc
+rosbag/
+*.db3
 __pycache__/
+*.pyc
+.vscode/
 .ROS_LOGGING
 .DS_Store
 *.egg-info/
-rosbag/
-*.db3
+.git/
+TEST_FILE.txt
