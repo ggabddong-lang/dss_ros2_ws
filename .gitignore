@@ -1,0 +1,7 @@
+build/
+install/
+log/
+.vscode/
+*.pyc
+__pycache__/
+.ROS_LOGGING
